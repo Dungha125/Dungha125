@@ -1,14 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dungha125.Dungha125" />
 
-<h1 align="center">
+<h1 align="center" style="background-color: #1E90FF; padding: 10px; border-radius: 10px;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dũng+Hà!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Vietnam</h3>
+<h3 align="center" style="background-color: #1E90FF; padding: 10px; border-radius: 10px;">A passionate software developer from Vietnam</h3>
 
 <br/>
 
-<div align="center">
+<div align="center" style="background-color: #1E90FF; padding: 20px; border-radius: 10px;">
  
  🔭 I’m currently studying at **PTIT**
  
@@ -26,11 +26,11 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="center" style="background-color: #1E90FF; padding: 20px; border-radius: 10px;">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,nextjs" /><br>
 </div>
@@ -38,7 +38,7 @@
 <br/>
 <hr/>
 
-<div align="center">
+<div align="center" style="background-color: #1E90FF; padding: 20px; border-radius: 10px;">
  <h2 align="center">🚀 My GitHub Contributions 🚀</h2>
 
 <div align="center" style="margin-bottom: 20px;">
