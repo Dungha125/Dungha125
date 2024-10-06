@@ -41,7 +41,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/Dungha125/Dungha125/blob/output/github-contribution-grid-snake.svg" />
+  <div align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Dungha125&count_private=true&theme=highcontrast&border_radius=10" alt="streak stats"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dungha125&theme=highcontrast" alt="profile summary" />
+</div>
 
   <br/><br/><br/>
 </div>
