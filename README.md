@@ -32,7 +32,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,nextjs, photoshop, illutrators" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,nextjs" /><br>
 </div>
 
 <br/>
@@ -43,7 +43,9 @@
   <br>
   <div align="center">
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dungha125&theme=highcontrast" alt="profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dungha125&theme=highcontrast" alt="Contribution stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dungha125&theme=highcontrast" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dungha125&theme=highcontrast" alt="Most Commit Languages" />
 </div>
 
   <br/><br/><br/>
