@@ -31,8 +31,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,nextjs, photoshop, illutrators" /><br>
 </div>
 
 <br/>
@@ -42,7 +42,6 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Dungha125&count_private=true&theme=highcontrast&border_radius=10" alt="streak stats"/>
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dungha125&theme=highcontrast" alt="profile summary" />
 </div>
