@@ -38,13 +38,18 @@
 <br/>
 <hr style="border: 2px solid #1E90FF;" />
 
-<div align="center" style="background-color: #f0f8ff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
- <h2 align="center" style="color: #1E90FF;">🚀 My GitHub Contributions 🚀</h2>
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 15px; box-shadow: 0 8px 24px rgba(30, 144, 255, 0.3); max-width: 900px; margin: auto;">
 
-<div align="center" style="margin-bottom: 20px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dungha125&bg_color=0d1117&color=1E90FF&line=1E90FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <h2 align="center" style="color: #1E90FF; margin-bottom: 20px;">🚀 My GitHub Contributions 🚀</h2>
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dungha125&bg_color=0d1117&color=1E90FF&line=1E90FF&point=ffffff&area=true&hide_border=true&animation=fade&custom_title=Contribution+Graph" 
+    alt="Contribution Graph" 
+    style="border-radius: 15px; box-shadow: 0 4px 15px rgba(30, 144, 255, 0.4);" 
+    width="850"
+  />
+
 </div>
-
 <br/>
 
 <h2 align="center" style="color: #1E90FF;">⚡ GitHub Stats ⚡</h2>
